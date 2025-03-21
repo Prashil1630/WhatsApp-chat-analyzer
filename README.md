@@ -61,3 +61,4 @@ streamlit run app.py
 ## Conclusion
 The **WhatsApp Chat Analyzer** provides an intuitive way to explore and gain insights from WhatsApp conversations. It simplifies chat data analysis and helps users understand messaging patterns, trends, and emotions effectively.
 
+
